@@ -40,10 +40,10 @@ Controls:
 - **Group**: groups colors by hue family (Red, Orange, Yellow, Green, Cyan, Blue, Purple, Pink, Gray) with the total of each family; the chosen sort applies inside each group.
 
 <p align="center"><img src="docs/group.png" width="330" alt="Colors grouped by hue family and sorted by hue"></p>
- **Rare**: shows only the colors below the rare threshold, handy for cleaning up or merging. Rare colors are drawn in orange (bar and percentage) even without this filter.
+- Rare : shows only the colors below the rare threshold, handy for cleaning up or merging. Rare colors are drawn in orange (bar and percentage) even without this filter.
 
 <p align="center"><img src="docs/rare.png" width="330" alt="Only the colors below the rare threshold, drawn in orange"></p>
- **Similar**: shows only near-duplicate colors, see "Near-identical colors" below.
+- Similar : shows only near-duplicate colors, see "Near-identical colors" below.
 
 The **Options** button opens a small window next to the panel, which keeps the panel itself compact:
 
