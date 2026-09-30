@@ -1,0 +1,14 @@
+{
+  "name": "color-usage",
+  "displayName": "Color Usage Panel",
+  "description": "Floating panel showing the percentage of use of every color on the canvas. Sort by usage, hue, lightness or saturation, group by hue family, spot rare colors, and click a color to select it.",
+  "version": "1.0.0",
+  "author": { "name": "Thomas Boisgerault" },
+  "license": "MIT",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      { "path": "./color-usage.lua" }
+    ]
+  }
+}
